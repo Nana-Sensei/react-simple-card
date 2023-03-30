@@ -1,0 +1,32 @@
+#root {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  min-height: 90vh;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+ 
+}
+
+body {
+  font-size: 24px;
+  background-color: rgb(28, 16, 97);
+}
+
+.Container {
+  display: flex;
+  justify-content: center;
+  box-shadow: 0 0 0.9375em rgba(0,0,0,0.219)
+}
+
+.card {color: rgb(0, 0, 0);
+  padding-left: 30px;padding-right: 30px;
+  padding-top: 50px;
+  background-color: rgb(244, 244, 244); 
+  height: 450px;
+  border-top-right-radius: 20px; 
+  border-bottom-right-radius: 20px;
+  
+}
+
